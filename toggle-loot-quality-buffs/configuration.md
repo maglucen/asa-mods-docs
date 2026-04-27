@@ -1,21 +1,16 @@
 # Toggle Loot Quality Buffs Configuration
 
-Add the configuration section for this mod to `GameUserSettings.ini`.
+Toggle Loot Quality Buffs currently works through an in-game toggle.
 
-```ini
-[ToggleLootQualityBuffs]
-Enabled=true
-```
+No `GameUserSettings.ini` configuration values are documented for this mod at this time.
 
-## Settings
+## Usage
 
-### `Enabled`
+Before opening a supply crate, use the mod toggle to decide whether loot-quality buff multipliers should be applied.
 
-Controls whether the loot quality buff behavior is active.
+- Toggle the multipliers off if you want to open the crate closer to the previewed result.
+- Toggle the multipliers back on if you want normal buff behavior.
 
-- `true` = enabled.
-- `false` = disabled.
+## Important note
 
-## Notes
-
-This page should be updated with the exact final config names if the mod uses different internal setting names.
+This mod does not improve loot by itself. It only controls whether loot-quality buff multipliers affect the crate when it is opened.
