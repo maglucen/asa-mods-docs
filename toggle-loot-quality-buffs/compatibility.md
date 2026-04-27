@@ -2,14 +2,16 @@
 
 ## Scope
 
-The mod is intended to affect loot quality buff behavior only.
+The mod affects loot-quality buff multipliers when opening supply crates.
+
+It is intended for players using preview tools, such as spyglass mods, where buff-based crate recalculation can make the opened crate differ from the previewed contents.
+
+## Important limitation
+
+This mod does not improve loot by itself. It only gives control over whether loot-quality buff multipliers affect the crate when it is opened.
 
 ## Load order
 
 No special load order is currently documented.
 
-If another mod changes the same loot quality systems, test the combination before using it on a live server.
-
-## Existing saves
-
-The mod is designed to be controlled through configuration, so disabling its behavior through config should be safer than removing the mod entirely.
+If another mod changes the same loot quality or supply crate systems, test the combination before using it on a live server.
