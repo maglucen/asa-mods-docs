@@ -25,7 +25,10 @@
 - [Features](./features.md)
 - [Configuration](./configuration.md)
 - [Compatibility](./compatibility.md)
-- [Changelog](./changelog.md)
+
+## Changelog
+
+Release changelogs are available on the mod's CurseForge page.
 
 ## Community
 
