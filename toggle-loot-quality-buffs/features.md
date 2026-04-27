@@ -1,13 +1,24 @@
 # Toggle Loot Quality Buffs Features
 
-## Configurable loot quality buff behavior
+## Loot-quality buff toggle
 
-The mod is intended to let server owners control whether loot quality buff behavior is active without having to remove the mod from the server.
+The mod adds a toggle to temporarily disable loot-quality buff multipliers before opening supply crates.
 
-## Server-friendly toggling
+## Preview-friendly crate opening
 
-Configuration-based toggling is useful when you want to temporarily disable the behavior while keeping the mod installed for future use.
+This is useful when using spyglass mods that preview crate contents.
 
-## Minimal scope
+Normally, loot-quality buffs can cause a crate to be recalculated when opened. That recalculation can reroll the item you previewed into something different, and sometimes worse.
 
-The mod focuses on loot quality buff behavior and avoids unrelated gameplay changes.
+With the toggle disabled, the crate is opened without those bonus modifiers being applied, helping keep the opened drop closer to what was previewed.
+
+## Player control
+
+The mod lets players decide whether to:
+
+- open the crate as currently previewed, without loot buff multipliers applied;
+- keep normal buff behavior and accept the rerolled result.
+
+## Important limitation
+
+This mod does not improve loot by itself. It only controls whether loot-quality buff multipliers affect the crate when it is opened.
