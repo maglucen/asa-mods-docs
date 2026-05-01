@@ -36,6 +36,41 @@ Settings are stored as persistent player data and configured in-game through the
 
 See [Tracker](./tracker.md).
 
+## Tracker Sync
+
+This repo includes a local sync script that rebuilds `tracker.md` directly from the Notion tracker without using ChatGPT.
+
+Files:
+
+- `sync_tracker_from_notion.py`
+- `.env.example`
+
+Setup:
+
+1. Copy `.env.example` to `.env`
+2. Set `NOTION_TOKEN`
+3. Keep `NOTION_TRACKER_DATA_SOURCE_ID` as-is unless the Notion data source changes
+
+Run:
+
+```powershell
+python .\sync_tracker_from_notion.py
+```
+
+Optional:
+
+```powershell
+python .\sync_tracker_from_notion.py --stdout
+python .\sync_tracker_from_notion.py --output .\tracker.md
+```
+
+What it does:
+
+- queries the Notion Tracker data source through the Notion REST API
+- paginates through all rows
+- sorts by group, creature name, and variant
+- regenerates `tracker.md` with the repo’s current markdown structure
+
 The tracker is intended both as a development checklist and as a public coverage reference so players can see:
 
 - which creatures are still only planned
