@@ -13,13 +13,11 @@ This repository is used as a public wiki-style documentation hub. Release change
 
 ## Work-in-progress mods
 
-I am currently working on additional ARK: Survival Ascended mods, including:
-
-- Breed Range Tool
-- Shhhhh Hush Tames
-- Wild Title Wars
-
-Public documentation for those mods will be added here when they are ready.
+| Mod | Description | Overview | Configuration | CurseForge |
+|---|---|---|---|---|
+| Breed Range Tool | Work-in-progress breeding range utility mod. | Overview | Configuration | CurseForge |
+| Shhhhh Hush Tames | Per-player supported tame sound muting through persistent global shoulder, riding, and mating preferences. | [Overview](./shhhhh-hush-tames/README.md) | Configuration | [CurseForge](https://www.curseforge.com/ark-survival-ascended/mods/shhhhh-hush-tames) |
+| Wild Title Wars | Work-in-progress rare titled wild creature hunt and title transfer mod. | Overview | Configuration | CurseForge |
 
 ## Common guides
 
