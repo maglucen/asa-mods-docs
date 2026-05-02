@@ -1,5 +1,7 @@
 # Toggle Loot Quality Buffs
 
+![Toggle Loot Quality Buffs logo](./assets/logo.png)
+
 **Toggle Loot Quality Buffs** lets you temporarily disable loot-quality buff multipliers before opening supply crates.
 
 ## Overview

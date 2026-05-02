@@ -1,5 +1,7 @@
 # Drakeling Tweaks
 
+![Drakeling Tweaks logo](./assets/logo.png)
+
 **Drakeling Tweaks** adds configurable Drakeling adjustments without replacing or remapping the creature.
 
 ## Overview

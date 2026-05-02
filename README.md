@@ -9,6 +9,7 @@ This repository is used as a public wiki-style documentation hub. Release change
 | Mod | Description | Overview | Configuration | CurseForge |
 |---|---|---|---|---|
 | Drakeling Tweaks | Configurable Drakeling adjustments without replacing or remapping the creature. | [Overview](./drakeling-tweaks/README.md) | [Configuration](./drakeling-tweaks/configuration.md) | [CurseForge](https://www.curseforge.com/ark-survival-ascended/mods/drakeling-tweaks) |
+| Golem Nemesis | Makes selected anti-golem creatures deal more meaningful damage to Rock Golems and their child classes. | [Overview](./golem-nemesis/README.md) | [Configuration](./golem-nemesis/configuration.md) | [CurseForge](https://www.curseforge.com/ark-survival-ascended/mods/golem-nemesis) |
 | Toggle Loot Quality Buffs | Temporarily disable loot-quality buff multipliers before opening supply crates. | [Overview](./toggle-loot-quality-buffs/README.md) | [Configuration](./toggle-loot-quality-buffs/configuration.md) | [CurseForge](https://www.curseforge.com/ark-survival-ascended/mods/toggle-loot-quality-buffs) |
 
 ## Work-in-progress mods

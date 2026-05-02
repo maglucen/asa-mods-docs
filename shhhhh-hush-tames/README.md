@@ -1,5 +1,7 @@
 # Shhhhh Hush Tames
 
+![Shhhhh Hush Tames logo](./assets/logo.png)
+
 **Shhhhh Hush Tames** is a lightweight quality-of-life mod that lets each player control supported tame sound muting through persistent global shoulder, riding, and mating preferences.
 
 ## Overview
