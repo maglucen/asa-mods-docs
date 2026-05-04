@@ -20,8 +20,10 @@ DinoParentBlacklist=
 Controls how much normal damage valid attackers deal to Rock Golems and compatible child classes.
 
 - `100.0` = normal damage
+- `10.0` = minimum allowed value
 - `50.0` = half damage
 - `200.0` = double damage
+- values below `10.0` are clamped to `10.0`
 
 ### `bUseDamageTypeDetection`
 
