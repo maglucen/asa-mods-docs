@@ -136,7 +136,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Fasolasuchus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A | Official ASA Scorched Earth creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Jerboa | Standard | No | No | No | No | N/A | N/A | No | N/A | No | Shoulder pet |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Lymantria | Standard | No | No | No | N/A | No | N/A | No | N/A | N/A |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Mantis | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Mantis | Standard | Yes | Yes | Yes | No | N/A | N/A | No | Yes | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Morellatops | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Oasisaur | Standard | No | No | No | N/A | No | N/A | No | N/A | N/A | Bob's Tall Tales creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Phoenix | Standard | No | No | No | N/A | No | N/A | No | N/A | N/A |  |
@@ -190,7 +190,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Aureliax | Standard | No | No | No | N/A | No | N/A | No | No | N/A | Lost Colony creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Gloon | Standard | No | No | No | No | N/A | N/A | No | No | N/A | Lost Colony creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Ossidon | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A | Lost Colony creature |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Veilwyn | Standard | No | No | No | No | N/A | N/A | No | N/A | No | Lost Colony companion creature |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Veilwyn | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | Yes | No | Lost Colony companion creature |
 
 ## Official DLC / Multi-Map Tameables - Fantastic Tames
 
