@@ -38,6 +38,14 @@ It is intentionally **practical** rather than asset-exhaustive:
 - `LayEgg`
 - `Cuddle`
 
+## Progress
+
+<progress value="19" max="165"></progress> 19/165 published (11.5%)
+
+- Published: **19**
+- Remaining: **146**
+- Remaining includes creatures still marked as `Internal` or `Planned`.
+
 ## Official Tameables - The Island
 
 | State | Creature | Variant | DT | Idle | Vocal | MoveGround | MoveFly | MoveWater | Eat | LayEgg | Cuddle | Notes |

@@ -8,5 +8,5 @@ if errorlevel 1 (
   exit /b 1
 )
 echo.
-echo Tracker synced successfully.
+echo Tracker and progress bar synced successfully.
 pause

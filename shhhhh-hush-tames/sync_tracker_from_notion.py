@@ -221,6 +221,22 @@ def render_row(row: dict) -> str:
     return f"| {' | '.join(values)} |"
 
 
+def render_progress_section(rows: list[dict]) -> list[str]:
+    total = len(rows)
+    public_count = sum(1 for row in rows if row["State"] == "Public")
+    remaining_count = total - public_count
+    percentage = (public_count / total * 100) if total else 0.0
+    return [
+        "## Progress",
+        "",
+        f"<progress value=\"{public_count}\" max=\"{total}\"></progress> {public_count}/{total} published ({percentage:.1f}%)",
+        "",
+        f"- Published: **{public_count}**",
+        f"- Remaining: **{remaining_count}**",
+        "- Remaining includes creatures still marked as `Internal` or `Planned`.",
+    ]
+
+
 def render_tracker(rows: list[dict]) -> str:
     rows_by_group: dict[str, list[dict]] = {}
     for row in sorted(rows, key=row_sort_key):
@@ -271,6 +287,8 @@ def render_tracker(rows: list[dict]) -> str:
         "- `Eat`",
         "- `LayEgg`",
         "- `Cuddle`",
+        "",
+        *render_progress_section(rows),
     ]
 
     for group_name in ordered_groups + extra_groups:
