@@ -40,10 +40,10 @@ It is intentionally **practical** rather than asset-exhaustive:
 
 ## Progress
 
-<progress value="22" max="165"></progress> 22/165 published (13.3%)
+<progress value="24" max="166"></progress> 24/166 published (14.5%)
 
-- Published: **22**
-- Remaining: **143**
+- Published: **24**
+- Remaining: **142**
 - Remaining includes creatures still marked as `Internal` or `Planned`.
 
 ## Official Tameables - The Island
@@ -51,7 +51,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 | State | Creature | Variant | DT | Idle | Vocal | MoveGround | MoveFly | MoveWater | Eat | LayEgg | Cuddle | Notes |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Achatina | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Allosaurus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Allosaurus | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | Yes | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Anglerfish | Standard | No | No | No | N/A | N/A | No | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Ankylosaurus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Araneo | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
@@ -204,6 +204,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 
 | State | Creature | Variant | DT | Idle | Vocal | MoveGround | MoveFly | MoveWater | Eat | LayEgg | Cuddle | Notes |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Burroback | Standard | No | No | No | No | N/A | N/A | No | No | No | Fantastic Tames Creatures |
 | ![Public](https://img.shields.io/badge/Public-2ea44f) | Drakeling | Standard | Yes | Yes | Yes | N/A | N/A | N/A | Yes | Yes | Yes | Fantastic Tames creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Dreadmare | Standard | No | No | No | No | No | N/A | No | N/A | N/A | Fantastic Tames creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Pyromane | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A | Fantastic Tames creature |
@@ -212,7 +213,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 
 | State | Creature | Variant | DT | Idle | Vocal | MoveGround | MoveFly | MoveWater | Eat | LayEgg | Cuddle | Notes |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Acrocanthosaurus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A | Additions Ascended creature |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Acrocanthosaurus | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | N/A | N/A | Additions Ascended creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Archelon | Standard | No | No | No | No | N/A | No | No | N/A | N/A | Additions Ascended creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Ceratosaurus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A | Additions Ascended creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Cryolophosaurus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A | Additions Ascended creature |
