@@ -10,6 +10,7 @@ This repository is used as a public wiki-style documentation hub. Release change
 |---|---|---|---|---|
 | Drakeling Tweaks | Configurable Drakeling adjustments without replacing or remapping the creature. | [Overview](./drakeling-tweaks/README.md) | [Configuration](./drakeling-tweaks/configuration.md) | [CurseForge](https://www.curseforge.com/ark-survival-ascended/mods/drakeling-tweaks) |
 | Golem Nemesis | Makes stone or metal gatherers deal more meaningful damage to Rock Golems and their child classes, with direct and parent-based whitelist or blacklist overrides. | [Overview](./golem-nemesis/README.md) | [Configuration](./golem-nemesis/configuration.md) | [CurseForge](https://www.curseforge.com/ark-survival-ascended/mods/golem-nemesis) |
+| Grace Shield | Temporary survivor protection after teleporting or respawning, with configurable grace-window behavior. | [Overview](./grace-shield/README.md) | [Configuration](./grace-shield/configuration.md) | [CurseForge](https://www.curseforge.com/ark-survival-ascended/mods/grace-shield-teleport-respawn-protection) |
 | Toggle Loot Quality Buffs | Temporarily disable loot-quality buff multipliers before opening supply crates. | [Overview](./toggle-loot-quality-buffs/README.md) | [Configuration](./toggle-loot-quality-buffs/configuration.md) | [CurseForge](https://www.curseforge.com/ark-survival-ascended/mods/toggle-loot-quality-buffs) |
 
 ## Work-in-progress mods
