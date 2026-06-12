@@ -40,10 +40,10 @@ It is intentionally **practical** rather than asset-exhaustive:
 
 ## Progress
 
-<progress value="24" max="166"></progress> 24/166 published (14.5%)
+<progress value="28" max="166"></progress> 28/166 published (16.9%)
 
-- Published: **24**
-- Remaining: **142**
+- Published: **28**
+- Remaining: **138**
 - Remaining includes creatures still marked as `Internal` or `Planned`.
 
 ## Official Tameables - The Island
@@ -53,13 +53,13 @@ It is intentionally **practical** rather than asset-exhaustive:
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Achatina | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Public](https://img.shields.io/badge/Public-2ea44f) | Allosaurus | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | Yes | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Anglerfish | Standard | No | No | No | N/A | N/A | No | No | N/A | N/A |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Ankylosaurus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Ankylosaurus | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | Yes | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Araneo | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Archaeopteryx | Standard | No | No | No | N/A | No | N/A | No | N/A | N/A | Shoulder pet |
 | ![Public](https://img.shields.io/badge/Public-2ea44f) | Argentavis | Standard | Yes | Yes | Yes | No | No | N/A | Yes | Yes | Yes |  |
 | ![Public](https://img.shields.io/badge/Public-2ea44f) | Arthropluera | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | N/A | N/A |  |
 | ![Public](https://img.shields.io/badge/Public-2ea44f) | Baryonyx | Standard | Yes | Yes | Yes | No | N/A | No | No | Yes | Yes |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Basilosaurus | Standard | No | No | No | N/A | N/A | No | No | N/A | N/A |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Basilosaurus | Standard | Yes | Yes | No | N/A | N/A | No | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Beelzebufo | Standard | No | No | No | No | N/A | No | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Brontosaurus | Standard | No | No | No | No | N/A | N/A | No | No | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Carbonemys | Standard | No | No | No | No | N/A | No | No | No | N/A |  |
@@ -81,7 +81,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Dunkleosteus | Standard | No | No | No | N/A | N/A | No | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Equus | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Gallimimus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Giganotosaurus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Giganotosaurus | Standard | Yes | Yes | Yes | No | N/A | N/A | No | Yes | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Gigantopithecus | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Hesperornis | Standard | No | No | No | No | N/A | No | No | N/A | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Hyaenodon | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
@@ -142,7 +142,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 | State | Creature | Variant | DT | Idle | Vocal | MoveGround | MoveFly | MoveWater | Eat | LayEgg | Cuddle | Notes |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | ![Public](https://img.shields.io/badge/Public-2ea44f) | Fasolasuchus | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | N/A | N/A | Official ASA Scorched Earth creature |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Jerboa | Standard | No | No | No | No | N/A | N/A | No | N/A | No | Shoulder pet |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Jerboa | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | N/A | Yes | Shoulder pet |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Lymantria | Standard | No | No | No | N/A | No | N/A | No | N/A | N/A |  |
 | ![Public](https://img.shields.io/badge/Public-2ea44f) | Mantis | Standard | Yes | Yes | Yes | No | N/A | N/A | No | Yes | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Morellatops | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
