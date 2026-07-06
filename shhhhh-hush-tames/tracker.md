@@ -40,10 +40,10 @@ It is intentionally **practical** rather than asset-exhaustive:
 
 ## Progress
 
-<progress value="28" max="166"></progress> 28/166 published (16.9%)
+<progress value="29" max="166"></progress> 29/166 published (17.5%)
 
-- Published: **28**
-- Remaining: **138**
+- Published: **29**
+- Remaining: **137**
 - Remaining includes creatures still marked as `Internal` or `Planned`.
 
 ## Official Tameables - The Island
@@ -178,7 +178,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | ![Public](https://img.shields.io/badge/Public-2ea44f) | Armadoggo | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | N/A | Yes | Bob's Tall Tales creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Enforcer | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Gacha | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Gacha | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | N/A | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Gasbags | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Managarmr | Standard | No | No | No | No | No | N/A | No | N/A | N/A |  |
 | ![Public](https://img.shields.io/badge/Public-2ea44f) | Snow Owl | Standard | Yes | Yes | Yes | N/A | No | N/A | Yes | Yes | Yes |  |
