@@ -27,6 +27,7 @@ The mod is especially useful for Genesis-style teleport gameplay, where survivor
 - Does not provide permanent invulnerability.
 - Teleport detection is movement-based.
 - Context changes such as mounting, dismounting, respawn, and attachment changes are treated conservatively.
+- Movement caused by supported moving platforms or vehicles is ignored.
 - Incoming damage prevention is enabled by default.
 - Outgoing damage prevention is enabled by default to avoid offensive use of the grace window.
 - Some combat or skill-based teleports are intentionally excluded.
@@ -36,6 +37,8 @@ The mod is especially useful for Genesis-style teleport gameplay, where survivor
 Grace Shield is intended for survivor teleport and respawn safety, not combat teleport immunity.
 
 It does not apply to some combat or skill-based teleports such as Enforcer teleports, Malwyn teleports, Tek Spear teleport behavior, or Lost Colony skills like Strategical Retreat.
+
+It also does not apply while players are being moved by supported moving platforms or vehicles such as rafts, zeppelins, and Tides of Fortune boats, or when using excluded system teleports such as Tek Teleporters, BurrowBack teleports, and Lost Colony base or bunker teleport paths.
 
 If you find another teleport-like ability that should be reviewed, please report it so it can be checked and added to this list if needed.
 
