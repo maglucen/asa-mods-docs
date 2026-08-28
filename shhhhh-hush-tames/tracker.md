@@ -40,10 +40,10 @@ It is intentionally **practical** rather than asset-exhaustive:
 
 ## Progress
 
-<progress value="29" max="166"></progress> 29/166 published (17.5%)
+<progress value="31" max="167"></progress> 31/167 published (18.6%)
 
-- Published: **29**
-- Remaining: **137**
+- Published: **31**
+- Remaining: **136**
 - Remaining includes creatures still marked as `Internal` or `Planned`.
 
 ## Official Tameables - The Island
@@ -206,7 +206,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Burroback | Standard | No | No | No | No | N/A | N/A | No | No | No | Fantastic Tames Creatures |
 | ![Public](https://img.shields.io/badge/Public-2ea44f) | Drakeling | Standard | Yes | Yes | Yes | N/A | N/A | N/A | Yes | Yes | Yes | Fantastic Tames creature |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Dreadmare | Standard | No | No | No | No | No | N/A | No | N/A | N/A | Fantastic Tames creature |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Dreadmare | Standard | Yes | Yes | Yes | No | No | N/A | Yes | N/A | Yes | Fantastic Tames creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Pyromane | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A | Fantastic Tames creature |
 
 ## Official DLC / Multi-Map Tameables - Additions Ascended / Official ASA Additions
@@ -261,6 +261,12 @@ It is intentionally **practical** rather than asset-exhaustive:
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Stegosaurus | Aberrant | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Titanoboa | Aberrant | No | No | No | No | N/A | N/A | No | No | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Triceratops | Aberrant | No | No | No | No | N/A | N/A | No | N/A | No |  |
+
+## Official Tameables - Genesis 1
+
+| State | Creature | Variant | DT | Idle | Vocal | MoveGround | MoveFly | MoveWater | Eat | LayEgg | Cuddle | Notes |
+|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Parrot | Standard | Yes | Yes | Yes | No | Yes | No | Yes | Yes | Yes |  |
 
 ## Notes
 
